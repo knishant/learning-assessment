@@ -1,4 +1,4 @@
-Links
+Useful links
 
 QTI format
 * https://digitaliser.getmarked.ai/blog/complete-guide-to-qti/ - useful article to understand details of QTI 2.1. 
