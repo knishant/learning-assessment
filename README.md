@@ -3,7 +3,7 @@ Useful links
 QTI format
 * https://digitaliser.getmarked.ai/blog/complete-guide-to-qti/ - useful article to understand details of QTI 2.1. 
 * https://github.com/IMSGlobal/qti-examples - Few samples
-* https://webapps.ph.ed.ac.uk/qtiworks/anonymous/samples - It has good set of QTI 2.1 examples. TODO: Locate the actual xml files
+* https://webapps.ph.ed.ac.uk/qtiworks/anonymous/samples - It has good set of QTI 2.1 examples. Clicking on open author's feedback displays the xml. TODO: How to download all?
 
 QTIworks
 * https://github.com/davemckain/qtiworks - a java based library for dealing with qti 2.1 based assessments
