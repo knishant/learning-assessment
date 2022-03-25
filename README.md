@@ -14,6 +14,10 @@ Openolat
 *  https://confluence.openolat.org/display/OO160EN/Test+editor+QTI+2.1
 *  https://confluence.openolat.org/display/OO160EN/Test+question+types
 
+Online Editor
+
+* https://www.onyx-editor.org
+
 QTI Software
 
 * https://en.wikipedia.org/wiki/QTI#Applications_with_IMS_QTI_support
