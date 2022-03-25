@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentTest xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p1 http://www.imsglobal.org/xsd/qti/qtiv2p1/imsqti_v2p1p1.xsd"
+                identifier="idTest0cf46a72-7232-4e27-b64a-db8fe78e3d6c" title="New test">
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float">
+        <defaultValue>
+            <value>0</value>
+        </defaultValue>
+    </outcomeDeclaration>
+    <outcomeDeclaration identifier="MAXSCORE" cardinality="single" baseType="float">
+        <defaultValue>
+            <value>1</value>
+        </defaultValue>
+    </outcomeDeclaration>
+    <outcomeDeclaration identifier="MINSCORE" cardinality="single" baseType="float">
+        <defaultValue>
+            <value>0</value>
+        </defaultValue>
+    </outcomeDeclaration>
+    <testPart identifier="idbe42851a-252a-4100-a1e1-784e4953a846" navigationMode="nonlinear"
+              submissionMode="individual">
+        <itemSessionControl allowComment="false" maxAttempts="1"/>
+        <assessmentSection identifier="id94dfe4a2-9404-4554-a135-8ff9b30ce635" fixed="false" title="section 1"
+                           visible="true">
+            <rubricBlock view="candidate">
+                <p>section foo description</p>
+            </rubricBlock>
+            <assessmentItemRef identifier="id4cae944d-14c8-48f8-8154-a2857c54d05a"
+                               href="id4cae944d-14c8-48f8-8154-a2857c54d05a.xml" fixed="false">
+                <itemSessionControl maxAttempts="3"/>
+            </assessmentItemRef>
+        </assessmentSection>
+    </testPart>
+    <outcomeProcessing>
+        <setOutcomeValue identifier="SCORE">
+            <sum>
+                <testVariables variableIdentifier="SCORE"/>
+            </sum>
+        </setOutcomeValue>
+    </outcomeProcessing>
+</assessmentTest>
