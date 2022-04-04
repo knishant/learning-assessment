@@ -1,5 +1,9 @@
 # Samples
 
+[Docs](http://www.imsglobal.org/question/qtiv2p2/imsqti_v2p2_impl.html)
+
+The above link has details about the samples and screenshots.
+
 ### choice
 
 * Choice interaction with one answer

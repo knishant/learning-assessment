@@ -1,0 +1,23 @@
+<messages xml:lang="hi">
+    <msg xml:id="q">
+        <text>भारत की राजधानी क्या है?</text>
+    </msg>
+    <msg xml:id="a1">
+        <text>नई दिल्ली</text>
+    </msg>
+    <msg xml:id="a2">
+        <text>मुंबई</text>
+    </msg>
+    <msg xml:id="a3">
+        <text>चेन्नई</text>
+    </msg>
+    <msg xml:id="fb1">
+        <text>सही जवाब</text>
+    </msg>
+    <msg xml:id="fb2">
+        <text>नहीं, वह महाराष्ट्र राज्य की राजधानी है</text>
+    </msg>
+    <msg xml:id="fb3">
+        <text>नहीं, वह तमिलनाडु राज्य की राजधानी है</text>
+    </msg>
+</messages>

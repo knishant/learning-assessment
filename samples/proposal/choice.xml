@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem identifier="432425353535353"
+                title="Capital of India" maxAttempts="2" xml:lang="en">
+    <itemBody>
+        <p msg_id="q">What is the capital of India?</p>
+        <singleChoiceInteraction shuffle="true">
+            <simpleChoice correct="true">
+                <p msg_id="a1">New Delhi</p>
+                <feedbackInline>
+                    <p msg_id="fb1">Correct Answer</p>
+                </feedbackInline>
+            </simpleChoice>
+            <simpleChoice>
+                <p msg_id="a2">Mumbai</p>
+                <feedbackInline>
+                    <p msg_id="fb2">No, that is the capital of the state of Maharashtra</p>
+                </feedbackInline>
+            </simpleChoice>
+            <simpleChoice fixed="true">
+                <p msg_id="a3">Chennai</p>
+                <feedbackInline>
+                    <p msg_id="fb3">No, that is the capital of the state of Tamil Nadu</p>
+                </feedbackInline>
+            </simpleChoice>
+        </singleChoiceInteraction>
+    </itemBody>
+    <bundles>
+        <bundle ref="choice.hi.xml" xml:lang="hi"/>
+        <bundle ref="choice.ta.xml" xml:lang="ta"/>
+    </bundles>
+</assessmentItem>

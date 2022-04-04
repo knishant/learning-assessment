@@ -1,0 +1,23 @@
+<messages xml:lang="hi">
+    <msg xml:id="q">
+        <text>இந்தியாவின் தலைநகரம் என்ன?</text>
+    </msg>
+    <msg xml:id="a1">
+        <text>புது தில்லி</text>
+    </msg>
+    <msg xml:id="a2">
+        <text>மும்பை</text>
+    </msg>
+    <msg xml:id="a3">
+        <text>சென்னை</text>
+    </msg>
+    <msg xml:id="fb1">
+        <text>சரியான பதில்</text>
+    </msg>
+    <msg xml:id="fb2">
+        <text>இல்லை, அது மகாராஷ்டிர மாநிலத்தின் தலைநகரம்</text>
+    </msg>
+    <msg xml:id="fb3">
+        <text>இல்லை, அதுதான் தமிழகத்தின் தலைநகரம்</text>
+    </msg>
+</messages>
